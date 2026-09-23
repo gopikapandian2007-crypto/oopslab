@@ -1,6 +1,0 @@
-Enter values:
-7
-8
-Area of Rectangle is56.0
-Area of triangle is28.0
-Area of Circle is154.0
